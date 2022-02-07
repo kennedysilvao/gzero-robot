@@ -72,8 +72,8 @@ Email is Required
     Submit Credentials
     Alert Span Should Be  E-mail obrigatório
 
-Required Fields
-    [Tags]      attempt_auth reqa
+Required Fields Authentication
+    [Tags]      attempt_auth    reqa
 
     @{expected_alerts}      Create List
     ...                     E-mail obrigatório
