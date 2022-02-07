@@ -14,4 +14,4 @@ Suite de Testes - Web (Front-End):
 - [x] User Authentication
 - [X] Signup
 
-<p>Feito por <a href="https://www.linkedin.com/in/kennedy-silva-de-oliveira-119154182/"></a></p>
+<p>Feito por <a href="https://www.linkedin.com/in/kennedy-silva-de-oliveira-119154182/">Kennedy Silva</a></p>
