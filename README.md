@@ -13,5 +13,12 @@
 Suite de Testes - Web (Front-End):
 - [x] User Authentication
 - [X] Signup
+- [X] Be a Geek
+- [X] Attempt Be Geek
+
+Suite de Testes - API:
+- [x] Geeks
+- [X] Sessions
+- [X] Users
 
 <p>Feito por <a href="https://www.linkedin.com/in/kennedy-silva-de-oliveira-119154182/">Kennedy Silva</a></p>
