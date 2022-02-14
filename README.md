@@ -8,6 +8,11 @@
 <h4 align="center"> 
 	🚧  Projeto Getgeeks 🚀 Em construção...  🚧
 </h4>
+
+### Recursos
+ - Abra o CMD, vá até a pasta "project-automacao";
+ - digite pip install -r requirements.txt e baixe as dependências.
+
 ### Features
 
 Suite de Testes - Web (Front-End):
